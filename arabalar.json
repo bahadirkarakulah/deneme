@@ -4,24 +4,21 @@
 	"arac_adi":"Araç 1", 
 	"arac_aciklama":"Güzel Araba"
 	"arac_tur":"Spor"
-	"arac_km":"150.000"
-	"arac_resim":"Doe"
+	"arac_km":150.000
 	},
  	{ 
 	"arac_id":2,
-	"arac_adi":"Doe", 
-	"arac_aciklama":"Doe"
-	"arac_tur":"Doe"
-	"arac_km":"Doe"
-	"arac_resim":"Doe"
+	"arac_adi":"Araç 2", 
+	"arac_aciklama":"Harika Araba"
+	"arac_tur":"Sedan"
+	"arac_km":120.000
 	},
  	{ 
 	"arac_id":3,
-	"arac_adi":"Doe", 
-	"arac_aciklama":"Doe"
-	"arac_tur":"Doe"
-	"arac_km":"Doe"
-	"arac_resim":"Doe"
+	"arac_adi":"Araç 3", 
+	"arac_aciklama":"Mükemmel Araba"
+	"arac_tur":"Station Vagon"
+	"arac_km":72.000
 	}
 
 ]}
