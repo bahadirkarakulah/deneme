@@ -1,0 +1,27 @@
+﻿{"arabalar":[
+ 	{ 
+	"arac_id":1,
+	"arac_adi":"Araç 1", 
+	"arac_aciklama":"Güzel Araba"
+	"arac_tur":"Spor"
+	"arac_km":"150.000"
+	"arac_resim":"Doe"
+	},
+ 	{ 
+	"arac_id":2,
+	"arac_adi":"Doe", 
+	"arac_aciklama":"Doe"
+	"arac_tur":"Doe"
+	"arac_km":"Doe"
+	"arac_resim":"Doe"
+	},
+ 	{ 
+	"arac_id":3,
+	"arac_adi":"Doe", 
+	"arac_aciklama":"Doe"
+	"arac_tur":"Doe"
+	"arac_km":"Doe"
+	"arac_resim":"Doe"
+	}
+
+]}
